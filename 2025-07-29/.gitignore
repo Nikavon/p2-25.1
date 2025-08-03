@@ -1,0 +1,3 @@
+# arquivo para escolher quais vão ser os arquivos ignorados pelo git #
+
+*.class
