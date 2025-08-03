@@ -12,10 +12,10 @@ public class Product {
         return total;
     }
     public void printUpdate () {
-        System.out.println("Update data: " + this.name + ", $ "+ this.price + ", " + this.stockQ + " units, Total: $ " + this.total());
+        System.out.println("Update data: " + this.name + ", $ "+ this.price + ", " + this.stockQ + " units, total: $ " + this.total());
     }
     public void printData () {
-        System.out.println("Product data: " + this.name + ", $ "+ this.price + ", " + this.stockQ + " units, Total: $ " + this.total());
+        System.out.println("Product data: " + this.name + ", $ "+ this.price + ", " + this.stockQ + " units, total: $ " + this.total());
     }
 
 }
